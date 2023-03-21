@@ -4,4 +4,4 @@ sentiment prediction based on the amazon 2014 books reviews
 
 ## Usage
 
-Download the data folder and put on the same folder as the sentiment file 
+Download the data folder and put on the same folder as the '''sentiment.ipynb''' file 
